@@ -1,0 +1,565 @@
+<!DOCTYPE html><html lang="pt-BR"><head>
+	<meta charset="UTF-8">
+			<title>Pack Gospel Oficial – Compre agora o melhor Pack da internet</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script async="" src="js/fbevents.js"></script><script type="application/javascript" id="pys-version-script">console.log('PixelYourSite Free version 10.2.0.2');</script>
+<title>Pack Gospel Oficial – Compre agora o melhor Pack da internet</title>
+<link rel="alternate" type="application/rss+xml" title="Feed para Pack Gospel Oficial »" href="https://packgospeloficial.top/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Pack Gospel Oficial »" href="https://packgospeloficial.top/index.php/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/packgospeloficial.top\/wp-includes\/js\/wp-emoji-release.min.js?ver=8709c7e9a10c964c082da5239d9a7815"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #FFFFFF;--wp--preset--color--contrast: #111111;--wp--preset--color--accent-1: #FFEE58;--wp--preset--color--accent-2: #F6CFF4;--wp--preset--color--accent-3: #503AA8;--wp--preset--color--accent-4: #686868;--wp--preset--color--accent-5: #FBFAF3;--wp--preset--color--accent-6: color-mix(in srgb, currentColor 20%, transparent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 0.875rem;--wp--preset--font-size--medium: clamp(1rem, 1rem + ((1vw - 0.2rem) * 0.196), 1.125rem);--wp--preset--font-size--large: clamp(1.125rem, 1.125rem + ((1vw - 0.2rem) * 0.392), 1.375rem);--wp--preset--font-size--x-large: clamp(1.75rem, 1.75rem + ((1vw - 0.2rem) * 0.392), 2rem);--wp--preset--font-size--xx-large: clamp(2.15rem, 2.15rem + ((1vw - 0.2rem) * 1.333), 3rem);--wp--preset--font-family--manrope: Manrope, sans-serif;--wp--preset--font-family--fira-code: "Fira Code", monospace;--wp--preset--spacing--20: 10px;--wp--preset--spacing--30: 20px;--wp--preset--spacing--40: 30px;--wp--preset--spacing--50: clamp(30px, 5vw, 50px);--wp--preset--spacing--60: clamp(30px, 7vw, 70px);--wp--preset--spacing--70: clamp(50px, 7vw, 90px);--wp--preset--spacing--80: clamp(70px, 10vw, 140px);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 645px;--wp--style--global--wide-size: 1340px; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.2rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1.2rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.2rem;}:root :where(.is-layout-grid){gap: 1.2rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--manrope);font-size: var(--wp--preset--font-size--large);font-weight: 300;letter-spacing: -0.1px;line-height: 1.4;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: var(--wp--preset--spacing--50);--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: var(--wp--preset--spacing--50);}a:where(:not(.wp-element-button)){color: currentColor;text-decoration: underline;}:root :where(a:where(:not(.wp-element-button)):hover){text-decoration: none;}h1, h2, h3, h4, h5, h6{font-weight: 400;letter-spacing: -0.1px;line-height: 1.125;}h1{font-size: var(--wp--preset--font-size--xx-large);}h2{font-size: var(--wp--preset--font-size--x-large);}h3{font-size: var(--wp--preset--font-size--large);}h4{font-size: var(--wp--preset--font-size--medium);}h5{font-size: var(--wp--preset--font-size--small);letter-spacing: 0.5px;}h6{font-size: var(--wp--preset--font-size--small);font-weight: 700;letter-spacing: 1.4px;text-transform: uppercase;}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--wp--preset--color--contrast);border-width: 0;color: var(--wp--preset--color--base);font-family: inherit;font-size: var(--wp--preset--font-size--medium);line-height: inherit;padding-top: 1rem;padding-right: 2.25rem;padding-bottom: 1rem;padding-left: 2.25rem;text-decoration: none;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: color-mix(in srgb, var(--wp--preset--color--contrast) 85%, transparent);border-color: transparent;color: var(--wp--preset--color--base);}:root :where(.wp-element-button:focus, .wp-block-button__link:focus){outline-color: var(--wp--preset--color--accent-4);outline-offset: 2px;}:root :where(.wp-element-caption, .wp-block-audio figcaption, .wp-block-embed figcaption, .wp-block-gallery figcaption, .wp-block-image figcaption, .wp-block-table figcaption, .wp-block-video figcaption){font-size: var(--wp--preset--font-size--small);line-height: 1.4;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-accent-1-color{color: var(--wp--preset--color--accent-1) !important;}.has-accent-2-color{color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-color{color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-color{color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-color{color: var(--wp--preset--color--accent-5) !important;}.has-accent-6-color{color: var(--wp--preset--color--accent-6) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-accent-1-background-color{background-color: var(--wp--preset--color--accent-1) !important;}.has-accent-2-background-color{background-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-background-color{background-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-background-color{background-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-background-color{background-color: var(--wp--preset--color--accent-5) !important;}.has-accent-6-background-color{background-color: var(--wp--preset--color--accent-6) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-accent-1-border-color{border-color: var(--wp--preset--color--accent-1) !important;}.has-accent-2-border-color{border-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-border-color{border-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-border-color{border-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-border-color{border-color: var(--wp--preset--color--accent-5) !important;}.has-accent-6-border-color{border-color: var(--wp--preset--color--accent-6) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-manrope-font-family{font-family: var(--wp--preset--font-family--manrope) !important;}.has-fira-code-font-family{font-family: var(--wp--preset--font-family--fira-code) !important;}
+</style>
+<style id="wp-block-template-skip-link-inline-css">
+
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+</style>
+<link rel="stylesheet" id="twentytwentyfive-style-css" href="css/style.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="css/frontend.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-6-css" href="css/post-6.css" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="css/widget-heading.min.css" media="all">
+<link rel="stylesheet" id="widget-image-css" href="css/widget-image.min.css" media="all">
+<link rel="stylesheet" id="widget-menu-anchor-css" href="css/widget-menu-anchor.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-49-css" href="css/post-49.css" media="all">
+<link rel="stylesheet" id="elementor-gf-local-roboto-css" href="css/roboto.css" media="all">
+<link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="css/robotoslab.css" media="all">
+<link rel="stylesheet" id="elementor-gf-local-montserrat-css" href="css/montserrat.css" media="all">
+<link rel="stylesheet" id="elementor-gf-local-poppins-css" href="css/poppins.css" media="all">
+<script src="js/jquery.min.js" id="jquery-core-js"></script>
+<script src="js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="js/jquery.bind-first-0.2.3.min.js" id="jquery-bind-first-js"></script>
+<script src="js/js.cookie-2.1.3.min.js" id="js-cookie-pys-js"></script>
+<script src="js/tld.min.js" id="js-tld-js"></script>
+<script id="pys-js-extra">
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","ajaxFire":false,"name":"PageView","pixelIds":["985597626756229"],"eventID":"4598b042-122d-4f14-a2e8-8a425a008d56","params":{"page_title":"Pack Gospel Oficial","post_type":"page","post_id":49,"plugin":"PixelYourSite","user_role":"guest","event_url":"packgospeloficial.top\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["985597626756229"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":true,"contentParams":{"post_type":"page","post_id":49,"content_name":"Pack Gospel Oficial"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false,"send_external_id":null,"enabled_medical":false,"do_not_track_medical_param":["event_url","post_title","page_title","landing_page","content_name","categories","category_name","tags"],"meta_ldu":false},"debug":"","siteUrl":"https:\/\/packgospeloficial.top","ajaxUrl":"https:\/\/packgospeloficial.top\/wp-admin\/admin-ajax.php","ajax_event":"daf87a06b7","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","ajaxForServerStaticEvent":"1","send_external_id":"1","external_id_expire":"180","track_cookie_for_subdomains":"1","google_consent_mode":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"undefined","TrafficUtms":{"utm_source":"ig","utm_medium":"paid","utm_campaign":"120223587720460578","utm_term":"120223588615400578","utm_content":"120223588615730578"},"TrafficUtmsId":[]},"GATags":{"ga_datalayer_type":"default","ga_datalayer_name":"dataLayerPYS"},"woo":{"enabled":false},"edd":{"enabled":false},"cache_bypass":"1746552668"};
+</script>
+<script src="js/public.js" id="pys-js"></script>
+<link rel="https://api.w.org/" href="https://packgospeloficial.top/index.php/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://packgospeloficial.top/index.php/wp-json/wp/v2/pages/49"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://packgospeloficial.top/xmlrpc.php?rsd">
+<link rel="canonical" href="https://packgospeloficial.top/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://packgospeloficial.top/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackgospeloficial.top%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://packgospeloficial.top/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpackgospeloficial.top%2F&format=xml">
+<meta name="generator" content="Elementor 3.28.3; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style class="wp-fonts-local">
+@font-face{font-family:Manrope;font-style:normal;font-weight:200 800;font-display:fallback;src:url('fonts/Manrope-VariableFont_wght.woff2') format('woff2');}
+@font-face{font-family:"Fira Code";font-style:normal;font-weight:300 700;font-display:fallback;src:url('fonts/FiraCode-VariableFont_wght.woff2') format('woff2');}
+</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"><script async="" defer="" src="js/pixel.js"></script><script src="js/wp-emoji-release.min.js" defer=""></script></head>
+<body data-rsssl="1" class="home wp-singular page-template page-template-elementor_canvas page page-id-49 wp-embed-responsive wp-theme-twentytwentyfive elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-49">
+			<div data-elementor-type="wp-page" data-elementor-id="49" class="elementor elementor-49" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-4de251f e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="4de251f" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b9773e1 elementor-widget elementor-widget-heading" data-id="b9773e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default"><img decoding="async" draggable="false" role="img" class="emoji" alt="🚀" src="images/1f680.svg"> Pack lançamento 2025. Aproveite! <img decoding="async" draggable="false" role="img" class="emoji" alt="🤩" src="images/1f929.svg"></h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8d3a1c1 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="8d3a1c1" data-element_type="container">
+		<div class="elementor-element elementor-element-39d0061 e-con-full e-flex e-con e-child" data-id="39d0061" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-4716b5e e-con-full e-flex e-con e-child" data-id="4716b5e" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-6c2c342 elementor-widget elementor-widget-html" data-id="6c2c342" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '985597626756229');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=985597626756229&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e708ee elementor-widget elementor-widget-image" data-id="5e708ee" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="images/topo.webp" title="topo.webp" alt="topo.webp" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-f40cad8 elementor-align-center elementor-widget elementor-widget-button" data-id="f40cad8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#oferta" id="#PREÇO">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Sim. Quero Acessar Agora</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8bdcee4 e-con-full e-flex e-con e-child" data-id="8bdcee4" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-15e663d4 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="15e663d4" data-element_type="container">
+		<div class="elementor-element elementor-element-1a48f0fd e-con-full e-flex e-con e-child" data-id="1a48f0fd" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-64c83f7c e-con-full e-flex e-con e-child" data-id="64c83f7c" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-26e16f78 elementor-widget elementor-widget-image" data-id="26e16f78" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="600" height="1024" src="images/2-600x1024.webp" class="attachment-large size-large wp-image-15" alt="" srcset="images/2-600x1024.webp 600w, images/2-176x300.webp 176w, images/2.webp 750w" sizes="(max-width: 600px) 100vw, 600px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-24f04e7c e-con-full e-flex e-con e-child" data-id="24f04e7c" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-479af963 e-con-full e-flex e-con e-parent" data-id="479af963" data-element_type="container">
+		<div class="elementor-element elementor-element-25e94f75 e-con-full e-flex e-con e-child" data-id="25e94f75" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-45dd3bb2 e-con-full e-flex e-con e-child" data-id="45dd3bb2" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-70acb5ff elementor-widget elementor-widget-image" data-id="70acb5ff" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="600" height="1024" src="images/3-600x1024.webp" class="attachment-large size-large wp-image-16" alt="" srcset="images/3-600x1024.webp 600w, images/3-176x300.webp 176w, images/3.webp 750w" sizes="(max-width: 600px) 100vw, 600px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-107ea182 e-con-full e-flex e-con e-child" data-id="107ea182" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-157cdf23 e-con-full e-flex e-con e-parent" data-id="157cdf23" data-element_type="container">
+		<div class="elementor-element elementor-element-12309762 e-con-full e-flex e-con e-child" data-id="12309762" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-474ebe19 e-con-full e-flex e-con e-child" data-id="474ebe19" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-309cc49b elementor-widget elementor-widget-image" data-id="309cc49b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="585" height="714" src="images/beneficio.jpg" class="attachment-large size-large wp-image-61" alt="" srcset="images/beneficio.jpg 585w, images/beneficio-246x300.jpg 246w" sizes="(max-width: 585px) 100vw, 585px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-dc13830 elementor-align-center elementor-widget elementor-widget-button" data-id="dc13830" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#oferta" id="#PREÇO">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Sim. Quero Acessar Agora</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-40726873 e-con-full e-flex e-con e-child" data-id="40726873" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-265230b3 e-con-full e-flex e-con e-parent" data-id="265230b3" data-element_type="container">
+		<div class="elementor-element elementor-element-3a0955e6 e-con-full e-flex e-con e-child" data-id="3a0955e6" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-13b78e89 e-con-full e-flex e-con e-child" data-id="13b78e89" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-61062672 elementor-widget elementor-widget-image" data-id="61062672" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="605" height="1024" src="images/5-605x1024.webp" class="attachment-large size-large wp-image-18" alt="" srcset="images/5-605x1024.webp 605w, images/5-177x300.webp 177w, images/5-768x1300.webp 768w, images/5-907x1536.webp 907w, images/5.webp 945w" sizes="(max-width: 605px) 100vw, 605px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-11ab9a92 e-con-full e-flex e-con e-child" data-id="11ab9a92" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a00b08c e-con-full e-flex e-con e-parent" data-id="a00b08c" data-element_type="container">
+				<div class="elementor-element elementor-element-cc9d3e5 elementor-widget elementor-widget-image" data-id="cc9d3e5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="768" height="1270" src="images/490795392_1410947773231338_6933098342753101149_n-768x1270.jpg" class="attachment-medium_large size-medium_large wp-image-201" alt="" srcset="images/490795392_1410947773231338_6933098342753101149_n-768x1270.jpg 768w, images/490795392_1410947773231338_6933098342753101149_n-181x300.jpg 181w, images/490795392_1410947773231338_6933098342753101149_n-619x1024.jpg 619w, images/490795392_1410947773231338_6933098342753101149_n-929x1536.jpg 929w, images/490795392_1410947773231338_6933098342753101149_n.jpg 1002w" sizes="(max-width: 768px) 100vw, 768px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c13cea2 e-con-full e-flex e-con e-parent" data-id="c13cea2" data-element_type="container">
+				<div class="elementor-element elementor-element-9534997 elementor-widget elementor-widget-image" data-id="9534997" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="602" height="1024" src="images/490555987_1109537667606524_7820582630004385544_n-1-602x1024.jpg" class="attachment-large size-large wp-image-197" alt="" srcset="images/490555987_1109537667606524_7820582630004385544_n-1-602x1024.jpg 602w, images/490555987_1109537667606524_7820582630004385544_n-1-176x300.jpg 176w, images/490555987_1109537667606524_7820582630004385544_n-1-768x1306.jpg 768w, images/490555987_1109537667606524_7820582630004385544_n-1-903x1536.jpg 903w, images/490555987_1109537667606524_7820582630004385544_n-1.jpg 1170w" sizes="(max-width: 602px) 100vw, 602px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ae84f98 e-con-full e-flex e-con e-parent" data-id="ae84f98" data-element_type="container">
+				<div class="elementor-element elementor-element-50e05f3 elementor-widget elementor-widget-image" data-id="50e05f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="839" height="1024" src="images/491087384_1039203414772728_8772434634985701109_n-839x1024.jpg" class="attachment-large size-large wp-image-208" alt="" srcset="images/491087384_1039203414772728_8772434634985701109_n-839x1024.jpg 839w, images/491087384_1039203414772728_8772434634985701109_n-246x300.jpg 246w, images/491087384_1039203414772728_8772434634985701109_n-768x937.jpg 768w, images/491087384_1039203414772728_8772434634985701109_n.jpg 1044w" sizes="(max-width: 839px) 100vw, 839px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2e70ace0 e-con-full e-flex e-con e-parent" data-id="2e70ace0" data-element_type="container">
+		<div class="elementor-element elementor-element-c2970c9 e-con-full e-flex e-con e-child" data-id="c2970c9" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-650a586 e-con-full e-flex e-con e-child" data-id="650a586" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-71754c30 elementor-widget elementor-widget-image" data-id="71754c30" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="916" height="1024" src="images/6-916x1024.webp" class="attachment-large size-large wp-image-19" alt="" srcset="images/6-916x1024.webp 916w, images/6-268x300.webp 268w, images/6-768x859.webp 768w, images/6.webp 1170w" sizes="(max-width: 916px) 100vw, 916px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-13b977a2 e-con-full e-flex e-con e-child" data-id="13b977a2" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-73422442 e-con-full e-flex e-con e-parent" data-id="73422442" data-element_type="container">
+		<div class="elementor-element elementor-element-63d6fb6 e-con-full e-flex e-con e-child" data-id="63d6fb6" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-6368de32 e-con-full e-flex e-con e-child" data-id="6368de32" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-4aabe50e elementor-widget elementor-widget-image" data-id="4aabe50e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="604" height="1024" src="images/7-604x1024.webp" class="attachment-large size-large wp-image-20" alt="" srcset="images/7-604x1024.webp 604w, images/7-177x300.webp 177w, images/7-768x1302.webp 768w, images/7-906x1536.webp 906w, images/7.webp 944w" sizes="(max-width: 604px) 100vw, 604px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4ed78faf e-con-full e-flex e-con e-child" data-id="4ed78faf" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-48d81197 e-con-full e-flex e-con e-parent" data-id="48d81197" data-element_type="container">
+		<div class="elementor-element elementor-element-1d2086d6 e-con-full e-flex e-con e-child" data-id="1d2086d6" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-3e3f5ee8 e-con-full e-flex e-con e-child" data-id="3e3f5ee8" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-18511ed6 elementor-widget elementor-widget-image" data-id="18511ed6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="812" height="1024" src="images/8-812x1024.webp" class="attachment-large size-large wp-image-21" alt="" srcset="images/8-812x1024.webp 812w, images/8-238x300.webp 238w, images/8-768x968.webp 768w, images/8.webp 1170w" sizes="(max-width: 812px) 100vw, 812px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4b159bf1 e-con-full e-flex e-con e-child" data-id="4b159bf1" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-394065d5 e-con-full e-flex e-con e-parent" data-id="394065d5" data-element_type="container">
+		<div class="elementor-element elementor-element-291e24f e-con-full e-flex e-con e-child" data-id="291e24f" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-2d91bf1e e-con-full e-flex e-con e-child" data-id="2d91bf1e" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-747acce4 elementor-widget elementor-widget-image" data-id="747acce4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="606" height="1024" src="images/9-606x1024.webp" class="attachment-large size-large wp-image-22" alt="" srcset="images/9-606x1024.webp 606w, images/9-177x300.webp 177w, images/9-768x1298.webp 768w, images/9-909x1536.webp 909w, images/9.webp 1170w" sizes="(max-width: 606px) 100vw, 606px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4ebf07f1 e-con-full e-flex e-con e-child" data-id="4ebf07f1" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-45b55b1d e-con-full e-flex e-con e-parent" data-id="45b55b1d" data-element_type="container">
+		<div class="elementor-element elementor-element-16006a22 e-con-full e-flex e-con e-child" data-id="16006a22" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-2cb329a7 e-con-full e-flex e-con e-child" data-id="2cb329a7" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-1c17a6d5 elementor-widget elementor-widget-image" data-id="1c17a6d5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="662" height="627" src="images/fundos.jpg" class="attachment-large size-large wp-image-23" alt="" srcset="images/fundos.jpg 662w, images/fundos-300x284.jpg 300w" sizes="(max-width: 662px) 100vw, 662px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-32b673a3 e-con-full e-flex e-con e-child" data-id="32b673a3" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-268e55ee e-con-full e-flex e-con e-parent" data-id="268e55ee" data-element_type="container">
+		<div class="elementor-element elementor-element-5aefa844 e-con-full e-flex e-con e-child" data-id="5aefa844" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-bbdb006 e-con-full e-flex e-con e-child" data-id="bbdb006" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-137ff71d elementor-widget elementor-widget-menu-anchor" data-id="137ff71d" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-menu-anchor" id="oferta"></div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-337f5bc7 elementor-widget elementor-widget-image" data-id="337f5bc7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="662" height="264" src="images/oferta.jpg" class="attachment-large size-large wp-image-24" alt="" srcset="images/oferta.jpg 662w, images/oferta-300x120.jpg 300w" sizes="(max-width: 662px) 100vw, 662px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-49f90a4c e-con-full e-flex e-con e-child" data-id="49f90a4c" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-63016b4 e-con-full e-flex e-con e-parent" data-id="63016b4" data-element_type="container">
+		<div class="elementor-element elementor-element-7825def e-con-full e-flex e-con e-child" data-id="7825def" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-5e0120de e-con-full e-flex e-con e-child" data-id="5e0120de" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-59d1ac90 elementor-widget elementor-widget-image" data-id="59d1ac90" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="795" height="1024" src="images/494690857_1215016437026824_2655683909659875794_n-795x1024.jpg" class="attachment-large size-large wp-image-218" alt="" srcset="images/494690857_1215016437026824_2655683909659875794_n-795x1024.jpg 795w, images/494690857_1215016437026824_2655683909659875794_n-233x300.jpg 233w, images/494690857_1215016437026824_2655683909659875794_n-768x989.jpg 768w, images/494690857_1215016437026824_2655683909659875794_n.jpg 1024w" sizes="(max-width: 795px) 100vw, 795px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-cf4302c elementor-align-center elementor-widget elementor-widget-button" data-id="cf4302c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://pack-gospel22.pay.yampi.com.br/r/M8NKU6103Y" id="#PREÇO">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Sim. Quero Acessar Agora</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4c42da6c e-con-full e-flex e-con e-child" data-id="4c42da6c" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-585b7607 e-con-full e-flex e-con e-parent" data-id="585b7607" data-element_type="container">
+		<div class="elementor-element elementor-element-7b4d84b8 e-con-full e-flex e-con e-child" data-id="7b4d84b8" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-3ba478f1 e-con-full e-flex e-con e-child" data-id="3ba478f1" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-75f9da3f elementor-widget elementor-widget-image" data-id="75f9da3f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="585" height="714" src="images/garantia.jpg" class="attachment-large size-large wp-image-59" alt="" srcset="images/garantia.jpg 585w, images/garantia-246x300.jpg 246w" sizes="(max-width: 585px) 100vw, 585px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2e4af0a4 e-con-full e-flex e-con e-child" data-id="2e4af0a4" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6e74157 e-con-full e-flex e-con e-parent" data-id="6e74157" data-element_type="container">
+		<div class="elementor-element elementor-element-4664f90 e-con-full e-flex e-con e-child" data-id="4664f90" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+		<div class="elementor-element elementor-element-d81cbfe e-con-full e-flex e-con e-child" data-id="d81cbfe" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				<div class="elementor-element elementor-element-ed980dd elementor-widget elementor-widget-heading" data-id="ed980dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">AINDA TEM DÚVIDAS?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-78a02b0 elementor-align-center elementor-widget elementor-widget-button" data-id="78a02b0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.me/5524981384992?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20Pack%20Gospel%20Top%20do%20Canva%2C%20pode%20me%20ajudar%3F" target="_blank" id="#PREÇO">
+						<span class="elementor-button-content-wrapper">
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-c241d0f elementor-widget elementor-widget-html" data-id="c241d0f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					
+<script src="js/notiflix-aio-2.6.0.min.js"></script>
+
+       <script> /right-top, right-bottom, left-top, left-bottom, center-top, center-bottom, center-center/
+        var position = "left-bottom";
+ 
+        /verde, azul, vermelho, amarelo/
+        var color = "verde";
+ 
+        /fade, zoom, from-right, from-left, from-top, from-bottom/
+        var animation = "from-left";
+ 
+        /nome do produto/
+        var product_name = "Pack Gospel Canva";
+ 
+        /frase depois do nome da pessoa/
+        var phrase = "acabou de comprar";
+        var timeout = 4000;
+ 
+        /masc, fem, any/
+        var type_name = "masc, fem";
+        var msg_final = "";
+ 
+        var min_time = 4;
+        var max_time = 20;
+ 
+        var names_masc = ['Jose', 'Joao', 'Antonio', 'Francisco', 'Carlos', 'Paulo', 'Pedro', 'Lucas', 'Luiz', 'Marcos', 'Luis', 'Gabriel', 'Rafael', 'Daniel', 'Marcelo', 'Bruno', 'Eduardo', 'Felipe', 'Rodrigo', 'Manoel', 'Mateus', 'Andre', 'Fernando', 'Fabio', 'Leonardo', 'Gustavo', 'Guilherme', 'Leandro', 'Tiago', 'Anderson', 'Ricardo', 'Marcio', 'Jorge', 'Alexandre', 'Roberto', 'Edson', 'Diego', 'Vitor', 'Sergio', 'Claudio', 'Matheus', 'Thiago', 'Geraldo', 'Adriano', 'Luciano', 'Julio', 'Renato', 'Alex', 'Vinicius', 'Rogerio', 'Samuel', 'Ronaldo', 'Mario', 'Flavio', 'Douglas', 'Igor', 'Davi', 'Manuel', 'Jeferson', 'Cicero', 'Victor', 'Miguel', 'Robson', 'Mauricio', 'Danilo', 'Henrique', 'Caio', 'Reginaldo', 'Joaquim', 'Benedito', 'Gilberto', 'Marco', 'Alan', 'Nelson', 'Cristiano', 'Elias', 'Wilson', 'Valdir', 'Emerson', 'Luan', 'David', 'Renan', 'Severino', 'Fabricio', 'Mauro', 'Jonas', 'Gilmar', 'Jean', 'Fabiano', 'Wesley', 'Diogo', 'Adilson', 'Jair', 'Alessandro', 'Everton', 'Osvaldo', 'Gilson', 'Willian', 'Joel', 'Silvio', 'Helio', 'Maicon', 'Reinaldo', 'Pablo', 'Artur', 'Vagner', 'Valter', 'Celso', 'Ivan', 'Cleiton', 'Vanderlei', 'Vicente', 'Arthur', 'Milton', 'Domingos', 'Wagner', 'Sandro', 'Moises', 'Edilson', 'Ademir', 'Adao', 'Evandro', 'Cesar', 'Valmir', 'Murilo', 'Juliano', 'Edvaldo', 'Ailton', 'Junior', 'Breno', 'Nicolas', 'Ruan', 'Alberto', 'Rubens', 'Nilton', 'Augusto', 'Cleber', 'Osmar', 'Nilson', 'Hugo', 'Otavio', 'Vinicios', 'Italo', 'Wilian', 'Alisson', 'Aparecido'];
+        var names_fem = ['Maria', 'Ana', 'Francisca', 'Antonia', 'Adriana', 'Juliana', 'Marcia', 'Fernanda', 'Patricia', 'Aline', 'Sandra', 'Camila', 'Amanda', 'Bruna', 'Jessica', 'Leticia', 'Julia', 'Luciana', 'Vanessa', 'Mariana', 'Gabriela', 'Vera', 'Vitoria', 'Larissa', 'Claudia', 'Beatriz', 'Rita', 'Luana', 'Sonia', 'Renata', 'Eliane'];
+ 
+        var option = {
+            position: position,
+            cssAnimationStyle: animation,
+            plainText: false,
+            timeout: timeout
+        };
+ 
+        function show_notification() {
+            if (type_name == "masc") {
+                msg_final = "<strong>" + names_masc[Math.floor(Math.random() * names_masc.length)] + "</strong>";
+            } else if (type_name == "fem") {
+                msg_final = "<strong>" + names_fem[Math.floor(Math.random() * names_fem.length)] + "</strong>";
+            } else {
+                var array_aux = ["masc", "fem"];
+ 
+                if (array_aux[Math.floor(Math.random() * array_aux.length)] == "masc") {
+                    msg_final = "<strong>" + names_masc[Math.floor(Math.random() * names_masc.length)] + "</strong>";
+                } else {
+                    msg_final = "<strong>" + names_fem[Math.floor(Math.random() * names_fem.length)] + "</strong>";
+                }
+            }
+ 
+            msg_final += decodeURIComponent(escape(" " + phrase + " " + product_name));
+ 
+            if (color == "verde") {
+                Notiflix.Notify.Success(msg_final, option);
+            }
+ 
+            if (color == "azul") {
+                Notiflix.Notify.Info(msg_final, option);
+            }
+ 
+            if (color == "vermelho") {
+                Notiflix.Notify.Failure(msg_final, option);
+            }
+ 
+            if (color == "amarelo") {
+                Notiflix.Notify.Warning(msg_final, option);
+            }
+ 
+            var rand = Math.floor(Math.random() * (max_time - min_time + 1) + min_time);
+            setTimeout(show_notification, rand * 1000);
+        }
+            setTimeout(show_notification, 4 * 1000);
+</script>				</div>
+				</div>
+				<div class="elementor-element elementor-element-209fd38 elementor-widget elementor-widget-html" data-id="209fd38" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script src="js/latest.js" data-utmify-prevent-xcod-sck="" data-utmify-prevent-subids="" async="" defer=""></script>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9f7be71 elementor-widget elementor-widget-html" data-id="9f7be71" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script>
+  window.pixelId = "67d4e61e89cdcee762b50dfb";
+  var a = document.createElement("script");
+  a.setAttribute("async", "");
+  a.setAttribute("defer", "");
+  a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
+  document.head.appendChild(a);
+</script>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ab7d58a e-con-full e-flex e-con e-child" data-id="ab7d58a" data-element_type="container" data-settings="{" background_background":"classic"}"="">
+				</div>
+				</div>
+				</div>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/twentytwentyfive\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=985597626756229&ev=PageView&noscript=1&cd%5Bpage_title%5D=Pack+Gospel+Oficial&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=49&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=packgospeloficial.top%2F" alt=""></noscript>
+<script id="wp-block-template-skip-link-js-after">
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		/*
+		 * Get the site wrapper.
+		 * The skip-link will be injected in the beginning of it.
+		 */
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.id = 'wp-skip-link';
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerText = 'Pular para o conteúdo';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	
+</script>
+<script src="js/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js"></script>
+<script src="js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script src="js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script src="js/hooks.min.js" id="wp-hooks-js"></script>
+<script src="js/i18n.min.js" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/packgospeloficial.top\/wp-admin\/admin-ajax.php","nonce":"7f99ec90ea","urls":{"assets":"https:\/\/packgospeloficial.top\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/packgospeloficial.top\/index.php\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/packgospeloficial.top\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="js/frontend.min.js" id="elementor-pro-frontend-js"></script>
+<script src="js/core.min.js" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.28.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"theme_builder_v2":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"home_screen":true,"launchpad-checklist":true},"urls":{"assets":"https:\/\/packgospeloficial.top\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/packgospeloficial.top\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/packgospeloficial.top\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7a1f3d5cb3"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":49,"title":"Pack%20Gospel%20Oficial%20%E2%80%93%20Compre%20agora%20o%20melhor%20Pack%20da%20internet","excerpt":"","featuredImage":"https:\/\/packgospeloficial.top\/wp-content\/uploads\/2025\/04\/491202752_1461856588558645_7572824349157424038_n-683x1024.jpg"}};
+</script>
+<script src="js/frontend.min_1.js" id="elementor-frontend-js"></script>
+<script src="js/elements-handlers.min.js" id="pro-elements-handlers-js"></script>
+	
+
+
+
+</body></html><!-- Page cached by LiteSpeed Cache 7.0.1 on 2025-05-06 14:31:08 -->
